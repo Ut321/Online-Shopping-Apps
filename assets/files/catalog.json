@@ -1,0 +1,72 @@
+{
+  "products" :[
+{
+  "id" : 1,
+  "name": "iPhone 12pro",
+  "desc" :  "iPhone 12pro",
+  "price" :999,
+  "color" : "#33505a",
+  "image" :"https://cdn.chv.me/images/thumbnails/Oneplus-5T-Mobile-Phone-6-01-xDvv29YH.jpg.thumb_800x800.jpg"},
+{
+"id" : 2,
+"name": "iPhone 10pro",
+  "desc" :  "Apple iphone 15generation",
+  "price" :999,
+"color" : "#33505a",
+"image" :"https://cdn.24.co.za/files/Cms/General/d/9602/db7a6acd83fb4d6184a47109faa9b6a1.jpg"},
+
+{
+"id" : 3,
+"name": "iPhone 9pro",
+  "desc" :  "Apple iphone 15generation",
+  "price" :899,
+"color" : "#33505a",
+"image" :"https://ijunkie.com/wp-content/uploads/2012/09/iPhone-5-black-front-back-1022x1024.jpeg"},
+
+{
+"id" : 4,
+"name": "iPhone 8pro",
+  "desc" :  "Apple iphone 15generation",
+  "price" :789,
+"color" : "#33505a",
+"image" :"https://i5.walmartimages.com/asr/3cbb6bf9-bfad-48c1-8958-a13e4d5b8b15_1.e3b1bef37746b08a99bfffd952dadb26.jpeg"},
+
+{
+"id" : 5,
+"name": "iPhone 7pro",
+  "desc" :  "Apple iphone 15generation",
+  "price" :479,
+"color" : "#33505a",
+"image" :"https://img.glyphs.co/img?src=aHR0cHM6Ly9zMy5tZWRpYWxvb3QuY29tL3Jlc291cmNlcy9GbG9hdGluZy1TbWFydHBob25lLU1vY2t1cC1QcmV2aWV3LTEuanBn&q=85&enlarge=true&h=800&w=1200"},
+
+{
+"id" : 6,
+"name": "iPhone 6pro",
+  "desc" :  "Apple iphone 15generation",
+  "price" :459,
+"color" : "#33505a",
+"image" :"https://cdn.shopify.com/s/files/1/1662/8203/products/s-l1600_8_c2f6241f-04f0-4e09-b5e3-d1f0c2aa766e_1024x1024.jpg?v=1533806330"},
+
+
+{
+"id" : 7,
+"name": "iPhone 5pro",
+  "desc" :  "Apple iphone 15generation",
+  "price" :300,
+"color" : "#33505a",
+"image" :"https://www.trustedreviews.com/wp-content/uploads/sites/54/2020/10/DSC01014-scaled.jpeg"},
+
+{
+"id" : 8,
+"name": "iPhone 4pro",
+  "desc" :  "Apple iphone 15generation",
+  "price" :99,
+"color" : "#33505a",
+"image" :"https://i.insider.com/5e97419f92e8ba729158caaa?width=1846"}
+
+
+
+
+
+]
+}
